@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae22f3d9-be61-4007-b2f8-6d1040dfb327" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="117734" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data/BaptistCatechism.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-21343">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>(&quot;q&quot;:.*)</find>
+      <find>&quot;q&quot;</find>
+      <find>&quot;id&quot;</find>
+      <find>onSwipeDown</find>
+      <find>&quot;id&quot;:</find>
+      <find>&quot;answer&quot;</find>
+      <find>(([a-zA-Z\.]*)?)</find>
+      <find>&quot;r&quot;:</find>
+      <find>proofTexts</find>
+      <find>infants</find>
+      <find>with</find>
+      <find>(.Q.)</find>
+      <find>consol</find>
+      <find>borderW</find>
+      <find>,</find>
+      <find>\d,\d</find>
+      <find>console.log</find>
+      <find>console.lo</find>
+      <find>console</find>
+      <find>expo</find>
+      <find>AnswerModal</find>
+      <find>30</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;a&quot;</replace>
+      <replace>r</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/screens/CatechismDetail.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.js" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-swipe-gestures/index.d.ts" />
+        <option value="$PROJECT_DIR$/node_modules/react-native-swipe-gestures/index.js" />
+        <option value="$PROJECT_DIR$/components/SBScrollView.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" />
+        <option value="$PROJECT_DIR$/data/WestminsterShorterCatechism.js" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.js" />
+        <option value="$PROJECT_DIR$/data/HeidelbergCatechism.js" />
+        <option value="$PROJECT_DIR$/App.js" />
+        <option value="$PROJECT_DIR$/components/DoubleTap.js" />
+        <option value="$PROJECT_DIR$/data/BaptistCatechism.js" />
+        <option value="$PROJECT_DIR$/app.json" />
+        <option value="$PROJECT_DIR$/components/BackButton.js" />
+        <option value="$PROJECT_DIR$/components/Header.js" />
+        <option value="$PROJECT_DIR$/screens/CatechismList.js" />
+        <option value="$PROJECT_DIR$/screens/QuestionList.js" />
+        <option value="$PROJECT_DIR$/data/SpurgeonsCatechism.js" />
+        <option value="$PROJECT_DIR$/components/QuestionItem.js" />
+        <option value="$PROJECT_DIR$/components/CatechismItem.js" />
+        <option value="$PROJECT_DIR$/data/dummy.js" />
+        <option value="$PROJECT_DIR$/constants/colors.js" />
+        <option value="$PROJECT_DIR$/data/OrthodoxCatechism.js" />
+        <option value="$PROJECT_DIR$/screens/AnswerDetail2.js" />
+        <option value="$PROJECT_DIR$/navigation/CatechismNavigation.js" />
+        <option value="$PROJECT_DIR$/screens/AnswerDetail.js" />
+        <option value="$PROJECT_DIR$/screens/QuestionDetail.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="832" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="catechism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="catechism" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="catechism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="catechism" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="catechism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="catechism" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="catechism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="catechism" type="462c0819:PsiDirectoryNode" />
+              <item name="navigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="catechism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="catechism" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screens" />
+      <recent name="$PROJECT_DIR$/components" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae22f3d9-be61-4007-b2f8-6d1040dfb327" name="Default Changelist" comment="" />
+      <created>1582882960297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582882960297</updated>
+      <workItem from="1582882961684" duration="6786000" />
+      <workItem from="1582977960130" duration="15100000" />
+      <workItem from="1583049093669" duration="61000" />
+      <workItem from="1583136318861" duration="9554000" />
+      <workItem from="1583229705681" duration="5227000" />
+      <workItem from="1583247141923" duration="16799000" />
+      <workItem from="1583400978688" duration="18928000" />
+      <workItem from="1583590265957" duration="10900000" />
+      <workItem from="1583658288101" duration="33550000" />
+      <workItem from="1584029329246" duration="6290000" />
+      <workItem from="1584103271368" duration="6286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="129481000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="832" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09928515" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32853982" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3383978" />
+      <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32982087" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/pattern1.svg" />
+    <entry file="file://$PROJECT_DIR$/assets/pattern1.gif" />
+    <entry file="file://$PROJECT_DIR$/assets/pattern4.gif" />
+    <entry file="file://$PROJECT_DIR$/assets/pattern6.png" />
+    <entry file="file://$PROJECT_DIR$/assets/splash.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pattern8.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/pattern3.png" />
+    <entry file="file://$PROJECT_DIR$/assets/pattern2.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/pattern4.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/pattern7.jpg" />
+    <entry file="file://$PROJECT_DIR$/assets/pattern5.png" />
+    <entry file="file://$PROJECT_DIR$/assets/pattern9.jpg" />
+    <entry file="file://$PROJECT_DIR$/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="3" selection-start-line="16" selection-start-column="2" selection-end-line="23" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/blue.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/green.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/purple.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/maroon.png" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/Lists/FlatList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="675" column="17" lean-forward="true" selection-start-line="675" selection-start-column="17" selection-end-line="675" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/teal.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/CatechismList2.js" />
+    <entry file="file://$PROJECT_DIR$/components/CatechismItem2.js" />
+    <entry file="file://$PROJECT_DIR$/components/QuestionItem2.js" />
+    <entry file="file://$PROJECT_DIR$/components/Header2.js" />
+    <entry file="file://$PROJECT_DIR$/screens/QuestionList2.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-swipe-gestures/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/DoubleTap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/BackButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/Ripple-1.9s-200px.gif" />
+    <entry file="file://$PROJECT_DIR$/assets/loadingSpinner.gif">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/CatechismList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="70" lean-forward="true" selection-start-line="9" selection-start-column="70" selection-end-line="9" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/WestminsterShorterCatechism.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/HeidelbergCatechism.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24751">
+          <caret line="170" column="6" selection-start-line="170" selection-start-column="6" selection-end-line="170" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/SpurgeonsCatechism.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="678" column="41" selection-start-line="678" selection-start-column="41" selection-end-line="678" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/QuestionItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="32" column="50" lean-forward="true" selection-start-line="32" selection-start-column="50" selection-end-line="32" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/components/CatechismItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="98" selection-start-line="16" selection-start-column="98" selection-end-line="16" selection-end-column="98" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/constants/colors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/BatchedBridge/NativeModules.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/react-native/react-native-implementation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="322" column="43" lean-forward="true" selection-start-line="322" selection-start-column="43" selection-end-line="322" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dummy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native-tts/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="75" lean-forward="true" selection-start-column="75" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/Components/StatusBar/StatusBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="52" column="2" selection-start-line="52" selection-start-column="2" selection-end-line="52" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react/cjs/react.development.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="2177" column="2" selection-start-line="2177" selection-start-column="2" selection-end-line="2177" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/QuestionList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/AnswerDetail2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="128" lean-forward="true" selection-start-line="128" selection-end-line="128" />
+          <folding>
+            <element signature="e#1#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigation/CatechismNavigation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/OrthodoxCatechism.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="972" column="19" selection-start-line="972" selection-start-column="19" selection-end-line="972" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/AnswerDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#1#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/QuestionDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="31" column="30" lean-forward="true" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/BaptistCatechism.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21343">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
