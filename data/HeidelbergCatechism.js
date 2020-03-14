@@ -1,8 +1,8 @@
 export const HEIDELBERG_CATECHISM = [
     {
-        "q": "What is your only comfort in life and death?",
-        "a": "That I am not my own,[1] but belong with body and soul, both in life and in death,[2] to my faithful Saviour Jesus Christ.[3] He has fully paid for all my sins with His precious blood, and has set me free from all the power of the devil.[5] He also preserves me in such a way[6] that without the will of my heavenly Father not a hair can fall from my head;[7] indeed, all things must work together for my salvation.[8] Therefore, by His Holy Spirit He also assures me of eternal life[9] and makes me heartily willing and ready from now on to live for Him.[10]",
-        "r": {
+        "question": "What is your only comfort in life and death?",
+        "answer": "That I am not my own,[1] but belong with body and soul, both in life and in death,[2] to my faithful Saviour Jesus Christ.[3] He has fully paid for all my sins with His precious blood, and has set me free from all the power of the devil.[5] He also preserves me in such a way[6] that without the will of my heavenly Father not a hair can fall from my head;[7] indeed, all things must work together for my salvation.[8] Therefore, by His Holy Spirit He also assures me of eternal life[9] and makes me heartily willing and ready from now on to live for Him.[10]",
+        "reference": {
             "1": "I Cor. 6:19, 20 ",
             "2": "Rom. 14:7-9",
             "3": "I Cor. 3:23; Tit. 2:14",
@@ -16,41 +16,41 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "What do you need to know in order to live and die in the joy of this comfort?",
-        "a": "First, how great my sins and misery are;[1] second, how I am delivered from all my sins and misery;[2] third, how I am to be thankful to God for such deliverance.[3]",
-        "r": {
+        "question": "What do you need to know in order to live and die in the joy of this comfort?",
+        "answer": "First, how great my sins and misery are;[1] second, how I am delivered from all my sins and misery;[2] third, how I am to be thankful to God for such deliverance.[3]",
+        "reference": {
             "1": "Rom. 3:9, 10; I John 1:10",
             "2": "John 17:3; Acts 4:12; 10:43",
             "3": "Matt. 5:16; Rom. 6:13; Eph. 5:8-10; I Pet. 2:9, 10",
         }
     },
     {
-        "q": "From where do you know your sins and misery?",
-        "a": "From the law of God.[1]",
-        "r": {
+        "question": "From where do you know your sins and misery?",
+        "answer": "From the law of God.[1]",
+        "reference": {
             "1": "Rom. 3: 20",
         }
     },
     {
-        "q": "What does God's law require of us?",
-        "a": "Christ teaches us this in a summary in Matthew 22: You shall love the LORD your God with all your heart, and with all your soul, and with all your mind.[1] This is the great and first commandment. And a second is like it, You shall love your neighbour as yourself. On these two commandments depend all the law and the prophets.[2]",
-        "r": {
+        "question": "What does God's law require of us?",
+        "answer": "Christ teaches us this in a summary in Matthew 22: You shall love the LORD your God with all your heart, and with all your soul, and with all your mind.[1] This is the great and first commandment. And a second is like it, You shall love your neighbour as yourself. On these two commandments depend all the law and the prophets.[2]",
+        "reference": {
             "1": "Deut. 6:5",
             "2": "Lev. 19:18.",
         }
     },
     {
-        "q": "Can you keep all this perfectly?",
-        "a": "No,[1] I am inclined by nature to hate God and my neighbour.[2]",
-        "r": {
+        "question": "Can you keep all this perfectly?",
+        "answer": "No,[1] I am inclined by nature to hate God and my neighbour.[2]",
+        "reference": {
             "1": "Rom. 3:10, 23; I John 1:8, 10",
             "2": "Gen. 6:5; 8:21; Jer. 17:9; Rom. 7:23; 8:7; Eph. 2:3; Tit. 3:3.",
         }
     },
     {
-        "q": "Did God, then, create man so wicked and perverse?",
-        "a": "No, on the contrary, God created man good[1] and in His image,[2] that is, in true righteousness and holiness,[3] so that he might rightly know God His Creator,[4] heartily love Him, and live with Him in eternal blessedness to praise and glorify Him.[5]",
-        "r": {
+        "question": "Did God, then, create man so wicked and perverse?",
+        "answer": "No, on the contrary, God created man good[1] and in His image,[2] that is, in true righteousness and holiness,[3] so that he might rightly know God His Creator,[4] heartily love Him, and live with Him in eternal blessedness to praise and glorify Him.[5]",
+        "reference": {
             "1": "Gen. 1:31",
             "2": "Gen. 1:26, 27",
             "3": "Eph. 4:24",
@@ -59,26 +59,26 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "From where, then, did man's depraved nature come?",
-        "a": "From the fall and disobedience of our first parents, Adam and Eve, in Paradise,[1] for there our nature became so corrupt[2] that we are all conceived and born in sin.[3]",
-        "r": {
+        "question": "From where, then, did man's depraved nature come?",
+        "answer": "From the fall and disobedience of our first parents, Adam and Eve, in Paradise,[1] for there our nature became so corrupt[2] that we are all conceived and born in sin.[3]",
+        "reference": {
             "1": "Gen. 3",
             "2": "Rom. 5:12, 18, 19",
             "3": "Ps. 51:5",
         }
     },
     {
-        "q": "But are we so corrupt that we are totally unable to do any good and inclined to all evil?",
-        "a": "Yes,[1] unless we are regenerated by the Spirit of God.[2]",
-        "r": {
+        "question": "But are we so corrupt that we are totally unable to do any good and inclined to all evil?",
+        "answer": "Yes,[1] unless we are regenerated by the Spirit of God.[2]",
+        "reference": {
             "1": "Gen. 6:5; 8:21; Job 14:4; Is. 53:6",
             "2": "John 3:3-5",
         }
     },
     {
-        "q": "Is God, then, not unjust by requiring in His law what man cannot do?",
-        "a": "No, for God so created man that he was able to do it.[1] But man, at the instigation of the devil,[2] in deliberate disobedience[3] robbed himself and all his descendants of these gifts.[4]",
-        "r": {
+        "question": "Is God, then, not unjust by requiring in His law what man cannot do?",
+        "answer": "No, for God so created man that he was able to do it.[1] But man, at the instigation of the devil,[2] in deliberate disobedience[3] robbed himself and all his descendants of these gifts.[4]",
+        "reference": {
             "1": "Gen. 1:31",
             "2": "Gen. 3:13; John 8:44; I Tim. 2:13, 14",
             "3": "Gen. 3:6",
@@ -86,82 +86,82 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "Will God allow such disobedience and apostasy to go unpunished?",
-        "a": "Certainly not. He is terribly displeased with our original sin as well as our actual sins. Therefore He will punish them by a just judgment both now and eternally,[1] as He has declared:[2] Cursed be every one who does not abide by all things written in the book of the law, and do them (Galatians 3:10).",
-        "r": {
+        "question": "Will God allow such disobedience and apostasy to go unpunished?",
+        "answer": "Certainly not. He is terribly displeased with our original sin as well as our actual sins. Therefore He will punish them by a just judgment both now and eternally,[1] as He has declared:[2] Cursed be every one who does not abide by all things written in the book of the law, and do them (Galatians 3:10).",
+        "reference": {
             "1": "Ex. 34:7; Ps. 5:4-6; 7:10; Nah. 1:2; Rom. 1:18; 5:12; Eph. 5:6; Heb. 9:27",
             "2": "Deut. 27:26.",
         }
     },
     {
-        "q": "But is God not also merciful?",
-        "a": "God is indeed merciful,[1] but He is also just.[2] His justice requires that sin committed against the most high majesty of God also be punished with the most severe, that is, with everlasting, punishment of body and soul.[3]",
-        "r": {
+        "question": "But is God not also merciful?",
+        "answer": "God is indeed merciful,[1] but He is also just.[2] His justice requires that sin committed against the most high majesty of God also be punished with the most severe, that is, with everlasting, punishment of body and soul.[3]",
+        "reference": {
             "1": "Ex. 20:6; 34:6, 7; Ps. 103:8, 9",
             "2": "Ex. 20:5; 34:7; Deut. 7:9-11; Ps. 5:4-6; Heb. 10:30, 31",
             "3": "Matt. 25:45,46",
         }
     },
     {
-        "q": "Since, according to God's righteous judgment we deserve temporal and eternal punishment, how can we escape this punishment and be again received into favour?",
-        "a": "God demands that His justice be satisfied.[1] Therefore full payment must be made either by ourselves or by another.[2]",
-        "r": {
+        "question": "Since, according to God's righteous judgment we deserve temporal and eternal punishment, how can we escape this punishment and be again received into favour?",
+        "answer": "God demands that His justice be satisfied.[1] Therefore full payment must be made either by ourselves or by another.[2]",
+        "reference": {
             "1": "Ex. 20:5; 23:7; Rom. 2:1-11",
             "2": "Is. 53:11; Rom. 8:3, 4",
         }
     },
     {
-        "q": "Can we ourselves make this payment?",
-        "a": "Certainly not. On the contrary, we daily increase our debt.[1]",
-        "r": {
+        "question": "Can we ourselves make this payment?",
+        "answer": "Certainly not. On the contrary, we daily increase our debt.[1]",
+        "reference": {
             "1": "s. 130:3; Matt. 6:12; Rom. 2:4, 5",
         }
     },
     {
-        "q": "Can any mere creature pay for us?",
-        "a": "No. In the first place, God will not punish another creature for the sin which man has committed.[1] Furthermore, no mere creature can sustain the burden of God's eternal wrath against sin and deliver others from it.[2]",
-        "r": {
+        "question": "Can any mere creature pay for us?",
+        "answer": "No. In the first place, God will not punish another creature for the sin which man has committed.[1] Furthermore, no mere creature can sustain the burden of God's eternal wrath against sin and deliver others from it.[2]",
+        "reference": {
             "1": "Ezek. 18:4, 20; Heb. 2:14-18",
             "2": "Ps. 130:3; Nah. 1:6.",
         }
     },
     {
-        "q": "What kind of mediator and deliverer must we seek?",
-        "a": "One who is a true[1] and righteous[2] man, and yet more powerful than all creatures; that is, one who is at the same time true God.[3]",
-        "r": {
+        "question": "What kind of mediator and deliverer must we seek?",
+        "answer": "One who is a true[1] and righteous[2] man, and yet more powerful than all creatures; that is, one who is at the same time true God.[3]",
+        "reference": {
             "1": "I Cor. 15:21; Heb. 2:17",
             "2": "Is. 53:9; II Cor. 5:21; Heb. 7:26.",
             "3": "Is. 7:14; 9:6; Jer. 23:6; John 1:1; Rom. 8:3, 4.",
         }
     },
     {
-        "q": "Why must He be a true and righteous man?",
-        "a": "He must be a true man because the justice of God requires that the same human nature which has sinned should pay for sin.[1] He must be a righteous man because one who himself is a sinner cannot pay for others.[2]",
-        "r": {
+        "question": "Why must He be a true and righteous man?",
+        "answer": "He must be a true man because the justice of God requires that the same human nature which has sinned should pay for sin.[1] He must be a righteous man because one who himself is a sinner cannot pay for others.[2]",
+        "reference": {
             "1": "Rom: 5:12, 15; I Cor. 15:21; Heb. 2:14-16",
             "2": "Heb. 7:26, 27; I Pet. 3:18",
         }
     },
     {
-        "q": "Why must He at the same time be true God?",
-        "a": "He must be true God so that by the power of His divine nature[1] He might bear in His human nature the burden of God's wrath,[2] and might obtain for us and restore to us righteousness and life.[3]",
-        "r": {
+        "question": "Why must He at the same time be true God?",
+        "answer": "He must be true God so that by the power of His divine nature[1] He might bear in His human nature the burden of God's wrath,[2] and might obtain for us and restore to us righteousness and life.[3]",
+        "reference": {
             "1": "Is. 9:5.",
             "2": "Deut. 4:24; Nah. 1:6; Ps. 130:3",
             "3": "Is. 53:5, 11; John 3:16; II Cor. 5:21",
         }
     },
     {
-        "q": "But who is that Mediator who at the same time is true God and a true and righteous man?",
-        "a": "Our Lord Jesus Christ,[1] whom God made our wisdom, our righteousness and sanctification and redemption (I Corinthians 1:30).",
-        "r": {
+        "question": "But who is that Mediator who at the same time is true God and a true and righteous man?",
+        "answer": "Our Lord Jesus Christ,[1] whom God made our wisdom, our righteousness and sanctification and redemption (I Corinthians 1:30).",
+        "reference": {
             "1": "Matt. 1:21-23; Luke 2:11; I Tim. 2:5; 3:16",
         }
     },
     {
-        "q": "From where do you know this?",
-        "a": "From the holy gospel, which God Himself first revealed in Paradise.[1] Later, He had it proclaimed by the patriarchs[2] and prophets,[3] and foreshadowed by the sacrifices and other ceremonies of the law.[4] Finally, He had it fulfilled through His only Son.[5]",
-        "r": {
+        "question": "From where do you know this?",
+        "answer": "From the holy gospel, which God Himself first revealed in Paradise.[1] Later, He had it proclaimed by the patriarchs[2] and prophets,[3] and foreshadowed by the sacrifices and other ceremonies of the law.[4] Finally, He had it fulfilled through His only Son.[5]",
+        "reference": {
             "1": "Gen. 3:15",
             "2": "Gen. 12:3; 22:18; 49:10",
             "3": "Is. 53; Jer. 23:5, 6; Mic. 7:18-20; Acts 10:43; Heb. 1:1",
@@ -170,9 +170,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -180,9 +180,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -190,9 +190,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -200,9 +200,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -210,9 +210,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -220,9 +220,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -230,9 +230,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -240,9 +240,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -250,9 +250,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -260,9 +260,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -270,9 +270,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -280,9 +280,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -290,9 +290,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -300,9 +300,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -310,9 +310,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -320,9 +320,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -330,9 +330,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -340,9 +340,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -350,9 +350,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -360,9 +360,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -370,9 +370,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -380,9 +380,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -390,9 +390,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -400,9 +400,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -410,9 +410,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -420,9 +420,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -430,9 +430,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -440,9 +440,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -450,9 +450,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -460,9 +460,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -470,9 +470,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -480,9 +480,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -490,9 +490,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -500,9 +500,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -510,9 +510,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -520,9 +520,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -530,9 +530,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -540,9 +540,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -550,9 +550,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -560,9 +560,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -570,9 +570,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -580,9 +580,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -590,9 +590,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -600,9 +600,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -610,9 +610,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -620,9 +620,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -630,9 +630,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -640,9 +640,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -650,9 +650,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -660,9 +660,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -670,9 +670,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -680,9 +680,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -690,9 +690,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -700,9 +700,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -710,9 +710,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -720,9 +720,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -730,9 +730,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -740,9 +740,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -750,9 +750,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -760,9 +760,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -770,9 +770,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -780,9 +780,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -790,9 +790,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -800,9 +800,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -810,9 +810,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -820,9 +820,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -830,9 +830,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -840,9 +840,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -850,9 +850,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -860,9 +860,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -870,9 +870,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -880,9 +880,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -890,9 +890,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -900,9 +900,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -910,9 +910,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -920,9 +920,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -930,9 +930,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -940,9 +940,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -950,9 +950,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -960,9 +960,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -970,9 +970,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -980,9 +980,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -990,9 +990,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1000,9 +1000,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1010,9 +1010,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1020,9 +1020,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1030,9 +1030,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1040,9 +1040,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1050,9 +1050,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1060,9 +1060,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1070,9 +1070,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1080,9 +1080,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1090,9 +1090,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1100,9 +1100,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1110,9 +1110,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1120,9 +1120,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1130,9 +1130,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1140,9 +1140,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1150,9 +1150,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1160,9 +1160,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1170,9 +1170,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1180,9 +1180,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1190,9 +1190,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1200,9 +1200,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1210,9 +1210,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1220,9 +1220,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1230,9 +1230,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1240,9 +1240,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1250,9 +1250,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",
@@ -1260,9 +1260,9 @@ export const HEIDELBERG_CATECHISM = [
         }
     },
     {
-        "q": "",
-        "a": "",
-        "r": {
+        "question": "",
+        "answer": "",
+        "reference": {
             "1": "",
             "2": "",
             "3": "",

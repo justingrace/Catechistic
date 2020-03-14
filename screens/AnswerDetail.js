@@ -9,7 +9,7 @@ const axios = require('axios').default;
 const AUTH_TOKEN = 'Token 6095accecd28b3035f25a4000aaae578589f1c3c';
 
 const AnswerDetail = ({navigation, route}) => {
-    let {id, a, r, sectionHeaders, catechismTitle} = route.params;
+    let {id, answer, reference, sectionHeaders, catechismTitle} = route.params;
     const [verseData, setVerseData] = useState(null);
 
 
@@ -49,10 +49,10 @@ const AnswerDetail = ({navigation, route}) => {
         }
 
         let verses = [];
-        if (r !== undefined) {
-            let keys = Object.keys(r);
+        if (reference !== undefined) {
+            let keys = Object.keys(reference);
             keys.map(key => {
-                verses.push(r[key])
+                verses.push(reference[key])
             })
         }
 
@@ -68,11 +68,11 @@ const AnswerDetail = ({navigation, route}) => {
         return () => {
             source.cancel();
         }; //cleanup function
-    }, [r])
+    }, [reference])
 
 
     const refs = () => {
-        if (r !== undefined) {
+        if (reference !== undefined) {
             if (verseData !== null) {
                 const finalList = [];
                 for (let i = 0; i < verseData.length; i++) {
@@ -111,7 +111,7 @@ const AnswerDetail = ({navigation, route}) => {
                     <View style={styles.textContainer}>
                         <Text style={styles.questionNo}>Q{id}</Text>
                         <View>
-                            <Text style={styles.answerText}>{a}</Text>
+                            <Text style={styles.answerText}>{answer}</Text>
 
                             <View onLayout={(event) => {
                                 const {height} = event.nativeEvent.layout;
