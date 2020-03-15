@@ -16,7 +16,7 @@ import BackButton from "../components/BackButton";
 import Header from "../components/Header";
 
 const QuestionDetail = ({navigation, route}) => {
-    let {id, q, a, r} = route.params.item;
+    let {id, question, answer, reference} = route.params.item;
     const {catechism, sectionHeaders, catechismTitle} = route.params;
     const currIndex = route.params.indexInList;
     const total = route.params.total;
@@ -30,7 +30,7 @@ const QuestionDetail = ({navigation, route}) => {
     if (Platform.OS === 'android' && Platform.Version >= 21) TouchableComponent = TouchableNativeFeedback;
 
     const showAnswer = () => {
-        navigation.navigate('AnswerDetail', {id: id, a: a, r: r, sectionHeaders, catechismTitle})
+        navigation.navigate('AnswerDetail', {id: id, answer: answer, reference: reference, sectionHeaders, catechismTitle})
     }
 
     const goToPrev = () => navigation.navigate('QuestionDetail', {
@@ -77,7 +77,7 @@ const QuestionDetail = ({navigation, route}) => {
                         <View>
                             <Text style={styles.questionNo}>Q{id}</Text>
                             <Text
-                                style={styles.questionText}>{q}</Text>
+                                style={styles.questionText}>{question}</Text>
                         </View>
                         {/*<TouchableComponent style={styles.testButton}>*/}
                         {/*<Text style={styles.testButtonText}>TEST</Text>*/}
